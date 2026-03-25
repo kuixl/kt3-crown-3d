@@ -48,7 +48,7 @@ scene.add(torus);
 
 const loader = new THREE.GLTFLoader();
 
-const modelUrl = "https://raw.githubusercontent.com/USERNAME/REPO/main/models/crown.glb";
+const modelUrl = "https://raw.githubusercontent.com/kuixl/kt3-crown-3d/main/models/crown.glb";
 
 let crown;
 
